@@ -11812,11 +11812,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJECTS\\CoreProjects\\EFCoreWebDemo\\EFCoreWebDemo\\EFCoreWebDemo.csproj",
+      "projectUniqueName": "C:\\PROJECTS\\CoreProjects\\gitEfCoreWeb\\EFCoreWebDemo\\EFCoreWebDemo.csproj",
       "projectName": "EFCoreWebDemo",
-      "projectPath": "C:\\PROJECTS\\CoreProjects\\EFCoreWebDemo\\EFCoreWebDemo\\EFCoreWebDemo.csproj",
+      "projectPath": "C:\\PROJECTS\\CoreProjects\\gitEfCoreWeb\\EFCoreWebDemo\\EFCoreWebDemo.csproj",
       "packagesPath": "C:\\Users\\bdeji\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJECTS\\CoreProjects\\EFCoreWebDemo\\EFCoreWebDemo\\obj\\",
+      "outputPath": "C:\\PROJECTS\\CoreProjects\\gitEfCoreWeb\\EFCoreWebDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
